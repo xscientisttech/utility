@@ -93,11 +93,11 @@
             "sm_image": "../assets/projects/pro_sm.png",
             "tech": [
                 {
-                    "icon": "../assets/technology/angular.svg",
+                    "icon": "technology/angular.svg",
                     "title": "Angular"
                 },
                 {
-                    "icon": "../assets/technology/ionic.svg",
+                    "icon": "technology/ionic.svg",
                     "title": "Ionic"
                 }
             ]
@@ -116,15 +116,15 @@
             "sm_image": "../assets/projects/pro1_sm.png",
             "tech": [
                 {
-                    "icon": "../assets/technology/reactjs.svg",
+                    "icon": "technology/reactjs.svg",
                     "title": "React JS"
                 },
                 {
-                    "icon": "../assets/technology/tailwind.svg",
+                    "icon": "technology/tailwind.svg",
                     "title": "Tailwindcss"
                 },
                 {
-                    "icon": "../assets/technology/django.svg",
+                    "icon": "technology/django.svg",
                     "title": "Django"
                 }
             ]
@@ -143,11 +143,11 @@
             "sm_image": "",
             "tech": [
                 {
-                    "icon": "../assets/technology/reactjs.svg",
+                    "icon": "technology/reactjs.svg",
                     "title": "React JS"
                 },
                 {
-                    "icon": "../assets/technology/tailwind.svg",
+                    "icon": "technology/tailwind.svg",
                     "title": "Tailwindcss"
                 }
             ]
@@ -166,7 +166,7 @@
             "sm_image": "../assets/projects/pro4_lg.png",
             "tech": [
                 {
-                    "icon": "../assets/technology/unity.svg",
+                    "icon": "technology/unity.svg",
                     "title": "Unity"
                 }
             ]
