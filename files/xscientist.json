@@ -302,22 +302,22 @@
     "images": [
         {
             "id": 1,
-            "url": "about_img/xscientist.png",
+            "image": "about_img/xscientist.png",
             "caption": "Lorem1"
         },
         {
             "id": 2,
-            "url": "about_img/photo.png",
+            "image": "about_img/photo.png",
             "caption": "Lorem2"
         },
         {
             "id": 3,
-            "url": "about_img/banner.png",
+            "image": "about_img/banner.png",
             "caption": "Lorem3"
         },
         {
             "id": 4,
-            "url": "about_img/group.png",
+            "image": "about_img/group.png",
             "caption": "Lorem4"
         }
     ]
