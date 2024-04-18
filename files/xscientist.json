@@ -302,27 +302,23 @@
     "images": [
         {
             "id": 1,
-            "title": "",
-            "url": "https://github.com/xscientisttech/utility/blob/main/images/banner.png",
-            "description": ""
+            "url": "about_img/xscientist.png",
+            "caption": "Lorem1"
         },
         {
             "id": 2,
-            "title": "",
-            "url": "https://github.com/xscientisttech/utility/blob/main/images/group.png",
-            "description": ""
+            "url": "about_img/photo.png",
+            "caption": "Lorem2"
         },
         {
             "id": 3,
-            "title": "",
-            "url": "https://github.com/xscientisttech/utility/blob/main/images/photo.png",
-            "description": ""
+            "url": "about_img/banner.png",
+            "caption": "Lorem3"
         },
         {
             "id": 4,
-            "title": "",
-            "url": "https://github.com/xscientisttech/utility/blob/main/images/xscientist.png",
-            "description": ""
+            "url": "about_img/group.png",
+            "caption": "Lorem4"
         }
     ]
 }
