@@ -76,14 +76,14 @@
             "id": 1,
             "Title": "Newslix",
             "heading_1": "Problem:",
-            "desc_1": "Difficulty in accumulating historical news data due to complex website structures, paywalls, and IP blockers.Existing solutions often lack comprehensiveness, affordability, or user-friendliness. Inability to effectively analyzelarge datasets of historical news articles.",
+            "desc_1": "Difficulty in accumulating historical news data due to complex website structures, paywalls, and IP blockers. Existing solutions often lack comprehensiveness, affordability, or user-friendliness. Inability to effectively analyze large datasets of historical news articles.",
             "heading_2": "Solution:",
-            "desc_2": "News Aggregation: Extracts news from thousands of sources in 34+ languages. Data Availability: Offershistorical and current news data in JSON, CSV, and Excel formats. Advanced Analytics: Enables users to perform variousdata analysis tasks on historical and present news data.",
+            "desc_2": "News Aggregation: Extracts news from thousands of sources in 34+ languages. Data Availability: Offers historical and current news data in JSON, CSV, and Excel formats. Advanced Analytics: Enables users to perform various data analysis tasks on historical and present news data.",
             "heading_3": "Benefits:",
-            "desc_3": "Financial Analysis: Compare stock data with historical news articles to identify trends and forecast markets.Market Research: Gain insights from historical data to inform product launches and business strategies. AI & Machine Learning: Train machine learning models with a vast dataset of news articles to automate tasks and uncoveropportunities.",
+            "desc_3": "Financial Analysis: Compare stock data with historical news articles to identify trends and forecast markets. Market Research: Gain insights from historical data to inform product launches and business strategies. AI & Machine Learning: Train machine learning models with a vast dataset of news articles to automate tasks and uncover opportunities.",
             "url": "https://newslix.web.app",
-            "lg_image": "../assets/projects/pro_lg.png",
-            "sm_image": "../assets/projects/pro_sm.png",
+            "lg_image": "projects/news_lg.png",
+            "sm_image": "projects/news_sm.png",
             "tech": [
                 {
                     "icon": "technology/angular.svg",
@@ -99,14 +99,14 @@
             "id": 2,
             "Title": "Onclick",
             "heading_1": "Problem:",
-            "desc_1": "Extracting, processing, and managing images from public websites can be a time-consuming and cumbersomeprocess. Manual methods involve navigating websites, inspecting code, and saving images one by one. This approach isinefficient and impractical for bulk image acquisition.",
+            "desc_1": "Extracting, processing, and managing images from public websites can be a time-consuming and cumbersome process. Manual methods involve navigating websites, inspecting code, and saving images one by one. This approach is inefficient and impractical for bulk image acquisition.",
             "heading_2": "Solution:",
-            "desc_2": "Effortless Image Extraction: Users simply paste a website URL and onclick automatically scans the HTML code,identifying and extracting all available images. Intuitive Management: Extracted images are categorized by type and resolution for easy exploration. Light and dark background options enhance image inspection. Seamless Downloading: Single images or entire selections can be downloaded individually or as a convenient ZIP archive.",
+            "desc_2": "Effortless Image Extraction: Users simply paste a website URL and onclick automatically scans the HTML code, identifying and extracting all available images. Intuitive Management: Extracted images are categorized by type and resolution for easy exploration. Light and dark background options enhance image inspection. Seamless Downloading: Single images or entire selections can be downloaded individually or as a convenient ZIP archive.",
             "heading_3": "Benefits:",
             "desc_3": "Increased Efficiency: Save time and effort by automating image extraction and download tasks. Enhanced Workflow: Organize and explore discovered images with ease, streamlining creative and development processes.",
             "url": "https://onclick-xscientist.web.app",
-            "lg_image": "../assets/projects/pro1_lg.png",
-            "sm_image": "../assets/projects/pro1_sm.png",
+            "lg_image": "projects/pro1_lg.png",
+            "sm_image": "projects/pro1_sm.png",
             "tech": [
                 {
                     "icon": "technology/reactjs.svg",
@@ -124,16 +124,16 @@
         },
         {
             "id": 3,
-            "Title": "DeePost",
+            "Title": "Achive Info",
             "heading_1": "Problem:",
             "desc_1": "Traditional social media platforms often connect users on a broad scale, neglecting the potential for local interactions. Additionally, privacy concerns arise when platforms require precise location data for connection.",
             "heading_2": "Solution:",
             "desc_2": "Privacy-Preserving Proximity: Users connect with others nearby without revealing their exact location. Only usernames are displayed, fostering safe interactions. Customizable Profiles: Create a unique profile with optional details like names, photos, bio, and interests. Manage the visibility of each field for individual control. Hashtag-Driven Connections: Explore interests and intentions using hashtags. Find potential dates (#dating), job opportunities (#HiringCook), or people who share your language (#FrenchSpeaker) easily.",
             "heading_3": "Benefits:",
             "desc_3": "Enhanced Privacy: Interact with local users without compromising your precise location. Streamlined Networking: Connect with people at events, conferences, or social gatherings with ease.",
-            "url": "https://DeePost.in/",
-            "lg_image": "",
-            "sm_image": "",
+            "url": "https://achive-info-solutions.web.app/",
+            "lg_image": "projects/achiveinfo_lg.png",
+            "sm_image": "projects/achiveinfo_sm.png",
             "tech": [
                 {
                     "icon": "technology/reactjs.svg",
@@ -155,12 +155,35 @@
             "heading_3": "Benefits:",
             "desc_3": "Enhanced Privacy: Interact with local users without compromising your precise location. Streamlined Networking: Connect with people at events, conferences, or social gatherings with ease.",
             "url": "https://assetstore.unity.com/packages/tools/game-toolkits/toaster-ingame-notification-advance-261402",
-            "lg_image": "../assets/projects/pro4_lg.png",
-            "sm_image": "../assets/projects/pro4_lg.png",
+            "lg_image": "projects/toaster_lg.png",
+            "sm_image": "projects/toaster_sm.png",
             "tech": [
                 {
                     "icon": "technology/unity.svg",
                     "title": "Unity"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "Title": "DeePost",
+            "heading_1": "Problem:",
+            "desc_1": "Traditional social media platforms often connect users on a broad scale, neglecting the potential for local interactions. Additionally, privacy concerns arise when platforms require precise location data for connection.",
+            "heading_2": "Solution:",
+            "desc_2": "Privacy-Preserving Proximity: Users connect with others nearby without revealing their exact location. Only usernames are displayed, fostering safe interactions. Customizable Profiles: Create a unique profile with optional details like names, photos, bio, and interests. Manage the visibility of each field for individual control. Hashtag-Driven Connections: Explore interests and intentions using hashtags. Find potential dates (#dating), job opportunities (#HiringCook), or people who share your language (#FrenchSpeaker) easily.",
+            "heading_3": "Benefits:",
+            "desc_3": "Enhanced Privacy: Interact with local users without compromising your precise location. Streamlined Networking: Connect with people at events, conferences, or social gatherings with ease.",
+            "url": "https://DeePost.in/",
+            "lg_image": "",
+            "sm_image": "",
+            "tech": [
+                {
+                    "icon": "technology/reactjs.svg",
+                    "title": "React JS"
+                },
+                {
+                    "icon": "technology/tailwind.svg",
+                    "title": "Tailwindcss"
                 }
             ]
         }
