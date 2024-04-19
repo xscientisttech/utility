@@ -36,39 +36,39 @@
             "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas architecto dicta minus saepe officiis errormolestias! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas architecto dicta minus saepe.",
             "Name": "Abhinav Muley",
             "Desigination": "CEO",
-            "Company": "xScientist"
+            "Company": "Google"
         },
         {
             "id": 2,
             "image": "../assets/prof2.png",
             "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas architecto dicta minus saepe officiis errormolestias! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas architecto dicta minus saepe.",
-            "Name": "Lorem 2",
-            "Desigination": "CEO",
-            "Company": "xScientist"
+            "Name": "Sumit Nagpure",
+            "Desigination": "CFO",
+            "Company": "CRED"
         },
         {
             "id": 3,
             "image": "../assets/prof3.png",
             "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas architecto dicta minus saepe officiis errormolestias! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas architecto dicta minus saepe.",
-            "Name": "Lorem 3",
-            "Desigination": "CEO",
-            "Company": "xScientist"
+            "Name": "Siddhant Bilange",
+            "Desigination": "CTO",
+            "Company": "Lenskart"
         },
         {
             "id": 4,
             "image": "../assets/prof1.png",
             "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas architecto dicta minus saepe officiis errormolestias! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas architecto dicta minus saepe.",
-            "Name": "Lorem 4",
-            "Desigination": "CEO",
-            "Company": "xScientist"
+            "Name": "Vaishnavi Padmane",
+            "Desigination": "CMO",
+            "Company": "Uber"
         },
         {
             "id": 5,
             "image": "../assets/prof2.png",
             "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas architecto dicta minus saepe officiis errormolestias! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas architecto dicta minus saepe.",
-            "Name": "Lorem 5",
+            "Name": "Sayali Datir",
             "Desigination": "CEO",
-            "Company": "xScientist"
+            "Company": "Microsoft"
         }
     ],
     "projects": [
@@ -335,12 +335,12 @@
         },
         {
             "id": 3,
-            "image": "about_img/banner.png",
+            "image": "about_img/group.png",
             "caption": "Lorem3"
         },
         {
             "id": 4,
-            "image": "about_img/group.png",
+            "image": "about_img/banner.png",
             "caption": "Lorem4"
         }
     ]
