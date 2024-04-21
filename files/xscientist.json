@@ -186,6 +186,87 @@
                     "title": "Tailwindcss"
                 }
             ]
+        },
+        {
+            "id": 6,
+            "Title": "Nick's Property Finder",
+            "heading_1": "Problem:",
+            "desc_1": "Searching for the perfect property can be a daunting task, with the need to browse through multiple property dealer websites to find relevant listings. This process is time-consuming and often leads to frustration due to the lack of effective filtering options. Homebuyers and property seekers face difficulties in efficiently narrowing down their search based on specific criteria such as the number of bedrooms, amenities, and budget constraints.",
+            "heading_2": "Solution:",
+            "desc_2": "Nick's Property Finder offers a solution to this problem by automating the data collection process from various property dealer websites. By utilizing web scraping techniques, the project gathers information on flats, bungalows, plans, and apartments, creating a centralized database of available properties. The key feature of the project lies in its robust filtering system, which allows users to refine search results according to their preferences. With options to filter by bedroom count, amenities like swimming pools, and budget constraints, users can easily find properties that match their criteria.",
+            "heading_3": "Benefits:",
+            "desc_3": "Users can save time by accessing a comprehensive database of properties from multiple sources in one place, eliminating the need to visit each website individually. The advanced filtering system enables users to quickly narrow down their search and focus on properties that meet their specific requirements. By providing detailed information and filtering options, Nick's Property Finder empowers users to make more informed decisions when selecting a property. The user-friendly interface ensures a smooth and hassle-free experience, making property searching easier and more convenient for all users. With the ability to easily find properties that align with their preferences, users are more likely to be satisfied with their property search experience and ultimately find their ideal home.",
+            "url": "https://property-collection.web.app/",
+            "lg_image": "",
+            "sm_image": "",
+            "tech": [
+                {
+                    "icon": "technology/reactjs.svg",
+                    "title": "React JS"
+                },
+                {
+                    "icon": "technology/tailwind.svg",
+                    "title": "Tailwindcss"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "Title": "DHC Dashboard",
+            "heading_1": "Problem:",
+            "desc_1": "Legal professionals, such as judges and advocates, face challenges in managing and accessing case details and documentation efficiently. With the increasing volume of cases, it becomes cumbersome to manually handle and retrieve relevant information when needed. This leads to inefficiencies, delays, and potential errors in the legal process.",
+            "heading_2": "Solution:",
+            "desc_2": "The DHC Dashboard offers a comprehensive solution by providing a centralized platform for managing and organizing case details and documentation. Judges and advocates can easily upload case information, including documents and hearing dates, onto the platform. Through intuitive search and filter functionalities, users can swiftly locate specific case details based on their requirements. Additionally, the integration of an AI bot automates the process of analyzing case documents and providing feedback to user queries, further enhancing user experience and efficiency.",
+            "heading_3": "Benefits:",
+            "desc_3": "Efficiency: Streamlines case management processes, reducing the time and effort required to access relevant case details. Accuracy: Minimizes errors by providing a centralized repository for case information and ensuring data integrity. Accessibility: Enables easy access to case details from anywhere at any time, enhancing collaboration among legal professionals. Automation: Integrates AI capabilities to automate the analysis of case documents and provide timely feedback to user queries, reducing manual effort. Enhanced Decision-Making: Empowers judges and advocates with quick access to relevant information, facilitating informed decision-making during legal proceedings. Cost Savings: Reduces the need for manual data entry and retrieval, leading to cost savings in terms of time and resources for legal practitioners and institutions.",
+            "url": "https://files.aartify.in/login",
+            "lg_image": "",
+            "sm_image": "",
+            "tech": [
+                {
+                    "icon": "technology/reactjs.svg",
+                    "title": "React JS"
+                },
+                {
+                    "icon": "technology/tailwind.svg",
+                    "title": "Tailwindcss"
+                },
+                {
+                    "icon": "technology/python.svg",
+                    "title": "Python"
+                },
+                {
+                    "icon": "technology/django.svg",
+                    "title": "Django"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "Title": "JSON to HTML",
+            "heading_1": "Problem:",
+            "desc_1": "Many organizations struggle with the accessibility and usability of their PDF documents. While PDFs are widely used for their portability and consistent formatting, they often pose challenges when it comes to viewing and interacting with the content, especially on different devices and platforms. Additionally, extracting useful information from PDFs for further processing or integration into web-based applications can be cumbersome and time-consuming.",
+            "heading_2": "Solution:",
+            "desc_2": "To address these challenges, we propose the development of a PDF to HTML Conversion API. This API will accept JSON data extracted from Adobe PDF files and seamlessly convert it into plain HTML format. Users will have the option to include CSS styles provided by Adobe for consistent formatting or choose plain HTML for a more lightweight output. The API will offer a simple RESTful interface for easy integration into existing systems and workflows, allowing organizations to automate the conversion process and make PDF content more accessible and usable across various devices and platforms.",
+            "heading_3": "Benefits:",
+            "desc_3": "Enhanced Accessibility: By converting PDF documents into HTML format, organizations can make their content more accessible to a wider audience, including users with disabilities and those using mobile devices or screen readers. Improved Usability: HTML files are easier to navigate and interact with compared to PDFs, making it simpler for users to find and consume information without the need for specialized software. Time and Cost Savings: Automating the conversion process through the API reduces the time and effort required to manually convert PDF documents into HTML, leading to increased productivity and cost savings for organizations. Flexibility and Control: The API provides customizable options for output formatting, giving users the flexibility to tailor the HTML output according to their specific requirements and preferences. Seamless Integration: With a simple RESTful API interface, the PDF to HTML Conversion API can be easily integrated into existing systems and workflows, enabling organizations to incorporate PDF conversion capabilities into their applications with minimal effort.",
+            "url": "https://rapidapi.com/kaduyogesh99/api/json-to-html",
+            "lg_image": "",
+            "sm_image": "",
+            "tech": [
+                {
+                    "icon": "technology/html.svg",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "technology/bootstrap.svg",
+                    "title": "BootStrap"
+                },
+                {
+                    "icon": "technology/node.js",
+                    "title": "Node.js"
+                }
+            ]
         }
     ],
     "services": [
