@@ -221,7 +221,7 @@
             "desc_3": "Efficiency: Streamlines case management processes, reducing the time and effort required to access relevant case details. Accuracy: Minimizes errors by providing a centralized repository for case information and ensuring data integrity. Accessibility: Enables easy access to case details from anywhere at any time, enhancing collaboration among legal professionals. Automation: Integrates AI capabilities to automate the analysis of case documents and provide timely feedback to user queries, reducing manual effort. Enhanced Decision-Making: Empowers judges and advocates with quick access to relevant information, facilitating informed decision-making during legal proceedings. Cost Savings: Reduces the need for manual data entry and retrieval, leading to cost savings in terms of time and resources for legal practitioners and institutions.",
             "url": "https://files.aartify.in/login",
             "lg_image": "",
-            "sm_image": "",
+            "sm_image": "projects/dhc_sm.png",
             "tech": [
                 {
                     "icon": "technology/reactjs.svg",
@@ -251,7 +251,7 @@
             "heading_3": "Benefits:",
             "desc_3": "Enhanced Accessibility: By converting PDF documents into HTML format, organizations can make their content more accessible to a wider audience, including users with disabilities and those using mobile devices or screen readers. Improved Usability: HTML files are easier to navigate and interact with compared to PDFs, making it simpler for users to find and consume information without the need for specialized software. Time and Cost Savings: Automating the conversion process through the API reduces the time and effort required to manually convert PDF documents into HTML, leading to increased productivity and cost savings for organizations. Flexibility and Control: The API provides customizable options for output formatting, giving users the flexibility to tailor the HTML output according to their specific requirements and preferences. Seamless Integration: With a simple RESTful API interface, the PDF to HTML Conversion API can be easily integrated into existing systems and workflows, enabling organizations to incorporate PDF conversion capabilities into their applications with minimal effort.",
             "url": "https://rapidapi.com/kaduyogesh99/api/json-to-html",
-            "lg_image": "",
+            "lg_image": "projects/jsontohtml_lg.png",
             "sm_image": "",
             "tech": [
                 {
