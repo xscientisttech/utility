@@ -193,7 +193,7 @@
             "heading_1": "Problem:",
             "desc_1": "Finding the ideal property is challenging, browsing various dealer sites. Time-consuming, lacks effective filters, leading to frustration. Simplify search with precise criteria.",
             "heading_2": "Solution:",
-            "desc_2": "Nick's Property Finder streamlines property search by automating data collection from dealer websites through web scraping. It compiles a centralized database of flats, bungalows, plans, and apartments. With a robust filtering system, users refine searches based on preferences like bedroom count, amenities, and budget, ensuring tailored property matches effortlessly.",
+            "desc_2": "Nick's Property Finder automates data collection from property dealer websites using web scraping, creating a centralized database of flats, bungalows, plans, and apartments. Its robust filtering system enables users to refine searches based on preferences such as bedroom count, amenities, and budget constraints, facilitating the discovery of properties that meet their criteria effortlessly.",
             "heading_3": "Benefits:",
             "desc_3": "Nick's Property Finder streamlines property search by consolidating multiple sources, offering advanced filters, and ensuring a user-friendly experience, saving time and enhancing decision-making.",
             "url": "https://property-collection.web.app/",
