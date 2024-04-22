@@ -193,7 +193,7 @@
             "heading_1": "Problem:",
             "desc_1": "Finding the ideal property is challenging, browsing various dealer sites. Time-consuming, lacks effective filters, leading to frustration. Simplify search with precise criteria.",
             "heading_2": "Solution:",
-            "desc_2": "Nick's Property Finder offers a solution to this problem by automating the data collection process from various property dealer websites. By utilizing web scraping techniques, the project gathers information on flats, bungalows, plans, and apartments, creating a centralized database of available properties. The key feature of the project lies in its robust filtering system, which allows users to refine search results according to their preferences. With options to filter by bedroom count, amenities like swimming pools, and budget constraints, users can easily find properties that match their criteria.",
+            "desc_2": "Nick's Property Finder streamlines property search by automating data collection from dealer websites through web scraping. It compiles a centralized database of flats, bungalows, plans, and apartments. With a robust filtering system, users refine searches based on preferences like bedroom count, amenities, and budget, ensuring tailored property matches effortlessly.",
             "heading_3": "Benefits:",
             "desc_3": "Nick's Property Finder streamlines property search by consolidating multiple sources, offering advanced filters, and ensuring a user-friendly experience, saving time and enhancing decision-making.",
             "url": "https://property-collection.web.app/",
@@ -251,8 +251,8 @@
             "heading_3": "Benefits:",
             "desc_3": "Convert PDFs to HTML for enhanced accessibility and usability. Automate the process for time and cost savings, while maintaining flexibility and seamless integration.",
             "url": "https://rapidapi.com/kaduyogesh99/api/json-to-html",
-            "lg_image": "",
-            "sm_image": "",
+            "lg_image": "projects/jsontohtml_lg.png",
+            "sm_image": "projects/jsontohtml_sm.png",
             "tech": [
                 {
                     "icon": "technology/html.svg",
