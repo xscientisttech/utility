@@ -424,5 +424,43 @@
             "image": "about_img/banner.png",
             "caption": "Lorem4"
         }
+    ],
+    "keyofferings": [
+        {
+            "id": 1,
+            "image": "keyofferings/",
+            "title": "ChatBot Integration",
+            "description": "Enhance customer engagement and support by incorporating AI-powered chatbots that can handle inquiries, provide assistance, and streamline communication processes, ultimately improving customer satisfaction and saving time for your team."
+        },
+        {
+            "id": 2,
+            "image": "keyofferings/",
+            "title": "Data Scraping Services",
+            "description": "Offer data scraping solutions to help businesses extract valuable information from various online sources such as websites, social media platforms, and databases. This can be used for market research, competitor analysis, lead generation, and more."
+        },
+        {
+            "id": 3,
+            "image": "keyofferings/",
+            "title": "Data Processing and Analytics",
+            "description": "Provide data processing and analytics services to help businesses make sense of their data, uncover insights, and make informed decisions. This may include data cleaning, transformation, visualization, and predictive analytics, empowering clients to optimize their operations and drive growth."
+        },
+        {
+            "id": 4,
+            "image": "keyofferings/",
+            "title": "Custom Software Development",
+            "description": "Tailor-made software solutions to address specific business needs and challenges. Whether it's developing a new application from scratch or customizing existing software, offering personalized solutions can set your company apart and provide added value to clients."
+        },
+        {
+            "id": 5,
+            "image": "keyofferings/",
+            "title": "Cloud Migration and Management",
+            "description": "Assist businesses in transitioning their infrastructure and applications to the cloud for increased scalability, flexibility, and cost-efficiency. Additionally, offer cloud management services to optimize performance, ensure security, and provide ongoing support."
+        },
+        {
+            "id": 6,
+            "image": "keyofferings/",
+            "title": "AI and Machine Learning Solutions",
+            "description": "Leverage the power of artificial intelligence and machine learning to develop intelligent applications and algorithms that automate tasks, improve decision-making processes, and drive innovation across various industries."
+        }
     ]
 }
