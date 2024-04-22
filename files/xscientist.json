@@ -406,12 +406,12 @@
     "images": [
         {
             "id": 1,
-            "image": "about_img/xscientist.png",
+            "image": "about_img/xscientist.jpg",
             "caption": "Lorem1"
         },
         {
             "id": 2,
-            "image": "about_img/photo.png",
+            "image": "about_img/photo.jpg",
             "caption": "Lorem2"
         },
         {
@@ -421,7 +421,7 @@
         },
         {
             "id": 4,
-            "image": "about_img/banner.png",
+            "image": "about_img/banner.jpg",
             "caption": "Lorem4"
         }
     ],
