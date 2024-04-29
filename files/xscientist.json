@@ -178,8 +178,8 @@
             "heading_3": "Benefits:",
             "desc_3": "Enhanced Privacy: Interact with local users without compromising your precise location. Streamlined Networking: Connect with people at events, conferences, or social gatherings with ease.",
             "url": "https://DeePost.in/",
-            "lg_image": "",
-            "sm_image": "",
+            "lg_image": "projects/deepost_sm.jpg",
+            "sm_image": "projects/deepost_sm.jpg",
             "tech": [
                 {
                     "icon": "technology/reactjs.svg",
