@@ -224,8 +224,8 @@
             "heading_3": "Benefits:",
             "desc_3": "Efficiently manage cases with accuracy and accessibility. Automation reduces manual effort while enhancing decision-making, leading to cost savings and improved collaboration among legal professionals.",
             "url": "https://files.aartify.in/login",
-            "lg_image": "dhc_lg.png",
-            "sm_image": "dhc_sm.png",
+            "lg_image": "projects/dhc_lg.png",
+            "sm_image": "projects/dhc_sm.png",
             "tech": [
                 {
                     "icon": "technology/reactjs.svg",
