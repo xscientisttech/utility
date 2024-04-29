@@ -420,17 +420,17 @@
         },
         {
             "id": 2,
-            "image": "about_img/photo.jpg",
+            "image": "about_img/banner.jpg",
             "caption": "Lorem2"
         },
         {
             "id": 3,
-            "image": "about_img/group.jpg",
+            "image": "about_img/office.jpg",
             "caption": "Lorem3"
         },
         {
             "id": 4,
-            "image": "about_img/banner.jpg",
+            "image": "about_img/conferencehall.jpg",
             "caption": "Lorem4"
         }
     ],
